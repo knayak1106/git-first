@@ -7,7 +7,9 @@ public class GitFirst {
 
 		Scanner s=new Scanner(System.in);
 		String str=s.nextLine();
-		System.out.print("The strig is: "+str);
+		//System.out.print("The strig is: "+str);
+		
+		System.out.print("This is the new change after the Scanner commit");
 	}
 
 }
